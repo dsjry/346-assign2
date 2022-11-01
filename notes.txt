@@ -1,0 +1,22 @@
+tutorial notes
+for assign2
+
+classes:
+-clock ->has thread
+-process ->thread
+-scheduler ->thread
+-state
+-user
+-main
+
+
+thus,
+user
+    -> process
+       state
+
+
+
+clock runs on a separate thread
+
+
